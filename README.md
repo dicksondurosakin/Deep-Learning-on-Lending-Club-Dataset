@@ -13,7 +13,7 @@ To view this file:
 1. Download this repository and unzip it
 2. Download the Anaconda distribution of python
 3. Launch a new Jupyter Notebook from Anaconda
-4. Open the Lending Club Project.ipynb from the browser launch by Jupyter Notebook
+4. Open the Loan-prediction.ipynb from the browser launch by Jupyter Notebook
 5. Run all cells
 6. Optional: If you don't have the libaries used install it using !pip install <name of the liberay you dont have>
 
